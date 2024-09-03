@@ -1,0 +1,29 @@
+[
+     {
+          "name": "jon",
+          "age": "56",
+          "phone": 4389795704
+     },
+
+     {
+          "name": "Alex",
+          "age": 46,
+          "phone": [
+               354346545,
+               9485349,
+               57947945
+          ],
+
+          "laptop": {
+               "price": 5800,
+               "campony": "Dell",
+               "Ram": "32gb"
+          }
+     },
+     
+     {
+          "name": "Abdullah",
+          "age": 15,
+          "phone": 79788979
+     }
+]
